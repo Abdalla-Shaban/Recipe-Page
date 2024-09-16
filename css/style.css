@@ -217,6 +217,10 @@ footer {
   border-top-left-radius: 6px;
 }
 
+footer a {
+  color: var(--Stone-100);
+}
+
 /* Start Responsive */
 @media (min-width: 766px) {
   main {
